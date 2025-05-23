@@ -49,9 +49,9 @@ Novakart is a fully-featured e-commerce platform built using the **MERN stack** 
 ```bash
 
 # Install dependencies
-npm install && cd client && npm install
+npm install && cd Frontend && npm install
 
-# Start servers
+# Start servers(Backend)
 cd .. && npm run dev
 
 📬 Contact
