@@ -27,7 +27,7 @@ Novakart is a fully-featured e-commerce platform built using the **MERN stack** 
 
 | Home Page | Product Page |
 |-----------|--------------|
-| ![Home](./Screenshots/home) | ![Product](./Screenshots/product) |
+| ![Home](./Screenshots/Home.jpg) | ![Product](./Screenshots/Product.jpg) |
 
 
 
