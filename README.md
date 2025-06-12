@@ -6,7 +6,8 @@ Novakart is a fully-featured e-commerce platform built using the **MERN stack** 
 
 ## 🌐 Live Demo
 
-🔗 [Demo Link](https://frontend-2-2vjy.vercel.app/)  
+[![Live Demo](https://img.shields.io/badge/Demo-Online-green.svg)](https://frontend-2-2vjy.vercel.app/)
+
 
 
 ---
