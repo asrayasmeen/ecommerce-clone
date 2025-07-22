@@ -1,6 +1,6 @@
 # E-Commerce Platform (Customized by Asra Yasmeen)
 
-This is a MERN stack e-commerce website originally based on NovaKart, now fully customized and managed by **Honey** 💻🛒
+This is a MERN stack e-commerce website originally based on NovaKart, now fully customized and managed by **Asra yasmeen** 💻🛒
 
 ## 🚀 Features
 - User Authentication using JWT
